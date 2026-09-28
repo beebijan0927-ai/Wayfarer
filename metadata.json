@@ -1,0 +1,6 @@
+{
+  "name": "Wayfarer · Visual Route Planner & Unified Booking",
+  "description": "All-in-one travel planning platform with visual routing maps, multi-modal transport booking (flights, trains, buses), hotel reservations, and journey comparison tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
